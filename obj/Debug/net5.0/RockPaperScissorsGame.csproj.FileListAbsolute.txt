@@ -1,0 +1,15 @@
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/bin/Debug/net5.0/RockPaperScissorsGame.deps.json
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/bin/Debug/net5.0/RockPaperScissorsGame.runtimeconfig.json
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/bin/Debug/net5.0/RockPaperScissorsGame.runtimeconfig.dev.json
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/bin/Debug/net5.0/RockPaperScissorsGame.dll
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/bin/Debug/net5.0/ref/RockPaperScissorsGame.dll
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/bin/Debug/net5.0/RockPaperScissorsGame.pdb
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.csprojAssemblyReference.cache
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.AssemblyInfoInputs.cache
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.AssemblyInfo.cs
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.dll
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/ref/RockPaperScissorsGame.dll
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.pdb
+/Users/Faliherizo/Documents/projets/RockPaperScissorsGame/obj/Debug/net5.0/RockPaperScissorsGame.genruntimeconfig.cache
